@@ -156,8 +156,10 @@ def home():
     st.markdown("""
     A implementação deste projeto visa não apenas melhorar a eficiência logística, 
     mas também proporcionar uma melhor experiência para os clientes internos, garantindo que os produtos estejam sempre disponíveis e sejam entregues pontualmente. A colaboração e a comunicação eficiente entre os membros da equipe serão fundamentais para o sucesso deste projeto.
-    """)
     
+    
+    """)
+    """)
     
     
 
