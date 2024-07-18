@@ -128,20 +128,7 @@ def home():
     
     
     
-    st.title('Bem-vindo ao Sistema de Logística Interna')
-    st.write("Aqui você encontra todas as informações sobre a empresa e os produtos.")
-    st.markdown("""
-    ## Sobre a Empresa
-    Descrição da empresa, sua missão, visão e valores.
     
-    ## Redes Sociais
-    - [Facebook](#)
-    - [Instagram](#)
-    - [LinkedIn](#)
-    
-    ## Links Úteis
-    - [Suporte](#)
-    - [FAQ](#)
     """)
 
 if __name__ == "__main__":
