@@ -123,7 +123,7 @@ def home():
     - Embalar os produtos conforme os padrões de qualidade estabelecidos.
     - Garantir que os produtos estejam prontos para serem enviados ou expostos na loja.
     - Trabalhar em conjunto com o time de reposição para garantir que os produtos estejam prontos para exposição.
-    """)
+    
     
     
     
